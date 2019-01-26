@@ -387,7 +387,7 @@
     </message>
     <message>
         <source>Stylus</source>
-        <translation>Interaktívne pero</translation>
+        <translation>Dotykové pero</translation>
     </message>
     <message>
         <source>Quit OpenBoard</source>
@@ -785,35 +785,35 @@
     </message>
     <message>
         <source>Ruled Dark Background</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tmavé riadkované pozadie</translation>
     </message>
     <message>
         <source>Ctrl+M</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+M</translation>
     </message>
     <message>
         <source>Ctrl+F</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+F</translation>
     </message>
     <message>
         <source>Ctrl+G</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+G</translation>
     </message>
     <message>
         <source>Ctrl+J</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+J</translation>
     </message>
     <message>
         <source>Ctrl+K</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+K</translation>
     </message>
     <message>
         <source>Ctrl+H</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+H</translation>
     </message>
     <message>
         <source>Reset grid size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obnoviť veľkosť mriežky</translation>
     </message>
 </context>
 <context>
@@ -1273,7 +1273,9 @@
         <source>The name %1 is allready used.
 Keeping this name will replace the document.
 Providing a new name will create a new document.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Názov %1 sa už používa.
+        Ak ho nezmeníte, prepíšete obsah starého dokumentu.
+        Ak ho zmeníte, vytvoríte nový dokument.</translation>
     </message>
 </context>
 <context>
@@ -1292,7 +1294,7 @@ Providing a new name will create a new document.</source>
     </message>
     <message>
         <source>My documents</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Moje dokumenty</translation>
     </message>
 </context>
 <context>
@@ -1307,11 +1309,11 @@ Providing a new name will create a new document.</source>
     </message>
     <message>
         <source>Remove Item</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odstrániť položku</translation>
     </message>
     <message>
         <source>Are you sure you want to remove the selected item(s) ?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Určite chcete odstrániť vybranú položku alebo vybrané položky?</translation>
     </message>
 </context>
 <context>
@@ -1348,14 +1350,14 @@ Providing a new name will create a new document.</source>
     <name>UBDraggableThumbnail</name>
     <message>
         <source>Page %0</source>
-        <translation type="unfinished">Stránka %0</translation>
+        <translation>Stránka %0</translation>
     </message>
 </context>
 <context>
     <name>UBDraggableThumbnailView</name>
     <message>
         <source>Page %0</source>
-        <translation type="unfinished">Stránka %0</translation>
+        <translation>Stránka %0</translation>
     </message>
 </context>
 <context>
@@ -1366,23 +1368,23 @@ Providing a new name will create a new document.</source>
     </message>
     <message>
         <source>Exporting document...</source>
-        <translation type="unfinished">Exportuje sa dokument...</translation>
+        <translation>Exportuje sa dokument...</translation>
     </message>
     <message>
         <source>Export failed</source>
-        <translation type="unfinished">Export zlyhal</translation>
+        <translation>Export sa nepodaril</translation>
     </message>
     <message>
         <source>Unable to export to the selected location. You do not have the permissions necessary to save the file.</source>
-        <translation type="unfinished">Do vybraného umiestnenia sa nedá exportovať. Na uloženie súboru nemáte dostatočné oprávnenia.</translation>
+        <translation>Do vybraného umiestnenia sa nedá exportovať. Na uloženie súboru nemáte dostatočné oprávnenia.</translation>
     </message>
     <message>
         <source>Export failed: location not writable</source>
-        <translation type="unfinished">Export sa nepodaril: do umiestnenia sa nedá zapisovať</translation>
+        <translation>Export sa nepodaril: do umiestnenia sa nedá zapisovať</translation>
     </message>
     <message>
         <source>Export successful.</source>
-        <translation type="unfinished">Export bol úspešný.</translation>
+        <translation>Export bol úspešný.</translation>
     </message>
 </context>
 <context>
@@ -1424,11 +1426,11 @@ Providing a new name will create a new document.</source>
     </message>
     <message>
         <source>Exporting document...</source>
-        <translation type="vanished">Exportuje sa dokument...</translation>
+        <translation>Exportuje sa dokument...</translation>
     </message>
     <message>
         <source>Export successful.</source>
-        <translation type="vanished">Export bol úspešný.</translation>
+        <translation>Export bol úspešný.</translation>
     </message>
     <message>
         <source>Export to OpenBoard Format</source>
@@ -1436,42 +1438,42 @@ Providing a new name will create a new document.</source>
     </message>
     <message>
         <source>Export failed: location not writable</source>
-        <translation type="vanished">Export sa nepodaril: do umiestnenia sa nedá zapisovať</translation>
+        <translation>Export sa nepodaril: v umiestnení sa nedá zapisovať</translation>
     </message>
     <message>
         <source>Export failed</source>
-        <translation type="vanished">Export zlyhal</translation>
+        <translation>Export sa nepodaril</translation>
     </message>
     <message>
         <source>Unable to export to the selected location. You do not have the permissions necessary to save the file.</source>
-        <translation type="vanished">Do vybraného umiestnenia sa nedá exportovať. Na uloženie súboru nemáte dostatočné oprávnenia.</translation>
+        <translation>Do vybraného umiestnenia sa nedá exportovať. Na uloženie súboru nemáte dostatočné oprávnenia.</translation>
     </message>
 </context>
 <context>
     <name>UBExportDocumentSetAdaptor</name>
     <message>
         <source>Exporting document...</source>
-        <translation type="unfinished">Exportuje sa dokument...</translation>
+        <translation>Exportuje sa dokument...</translation>
     </message>
     <message>
         <source>Export successful.</source>
-        <translation type="unfinished">Export bol úspešný.</translation>
+        <translation>Export bol úspešný.</translation>
     </message>
     <message>
         <source>Failed to export...</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepodarilo sa eportovať...</translation>
     </message>
     <message>
         <source>Export as UBX File</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovať ako súbor UBX</translation>
     </message>
     <message>
         <source>Export failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Export sa nepodaril.</translation>
     </message>
     <message>
         <source>Export to OpenBoard UBX Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovať do formátu UBX pre OpenBoard</translation>
     </message>
 </context>
 <context>
@@ -1486,23 +1488,23 @@ Providing a new name will create a new document.</source>
     </message>
     <message>
         <source>Exporting document...</source>
-        <translation type="vanished">Exportuje sa dokument...</translation>
+        <translation>Exportuje sa dokument...</translation>
     </message>
     <message>
         <source>Export successful.</source>
-        <translation type="vanished">Export bol úspešný.</translation>
+        <translation>Export bol úspešný.</translation>
     </message>
     <message>
         <source>Export failed: location not writable</source>
-        <translation type="vanished">Export sa nepodaril: do umiestnenia sa nedá zapisovať</translation>
+        <translation>Export sa nepodaril: v umiestnení sa nedá zapisovať</translation>
     </message>
     <message>
         <source>Export failed</source>
-        <translation type="vanished">Export zlyhal</translation>
+        <translation>Export sa nepodaril</translation>
     </message>
     <message>
         <source>Unable to export to the selected location. You do not have the permissions necessary to save the file.</source>
-        <translation type="vanished">Do vybraného umiestnenia sa nedá exportovať. Na uloženie súboru nemáte dostatočné oprávnenia.</translation>
+        <translation>Do vybraného umiestnenia sa nedá exportovať. Na uloženie súboru nemáte dostatočné oprávnenia.</translation>
     </message>
 </context>
 <context>
@@ -1521,11 +1523,11 @@ Providing a new name will create a new document.</source>
     </message>
     <message>
         <source>Exporting document...</source>
-        <translation type="vanished">Exportuje sa dokument...</translation>
+        <translation>Exportuje sa dokument...</translation>
     </message>
     <message>
         <source>Export successful.</source>
-        <translation type="vanished">Export bol úspešný.</translation>
+        <translation>Export bol úspešný.</translation>
     </message>
 </context>
 <context>
@@ -1536,7 +1538,7 @@ Providing a new name will create a new document.</source>
     </message>
     <message>
         <source>Export failed.</source>
-        <translation>Export zlyhal.</translation>
+        <translation>Export sa nepodaril.</translation>
     </message>
     <message>
         <source>Export as Web data</source>
@@ -1563,7 +1565,7 @@ Providing a new name will create a new document.</source>
     </message>
     <message>
         <source>Set as background</source>
-        <translation type="vanished">Nastaviť ako pozadie</translation>
+        <translation>Nastaviť ako pozadie</translation>
     </message>
     <message>
         <source>Add to library</source>
@@ -1705,7 +1707,7 @@ Providing a new name will create a new document.</source>
     </message>
     <message>
         <source>Set as background</source>
-        <translation type="unfinished">Nastaviť ako pozadie</translation>
+        <translation>Nastaviť ako pozadie</translation>
     </message>
 </context>
 <context>
@@ -1731,7 +1733,7 @@ Providing a new name will create a new document.</source>
     <name>UBGraphicsTextItem</name>
     <message>
         <source>&lt;Type Text Here&gt;</source>
-        <translation>&lt;Text napíšte sem&gt;</translation>
+        <translation>&lt;Sen napíšte textgt;</translation>
     </message>
 </context>
 <context>
@@ -1767,7 +1769,7 @@ Providing a new name will create a new document.</source>
     </message>
     <message>
         <source>Transform as Tool </source>
-        <translation>Zmeniť ako nástroj</translation>
+        <translation>Zmeniť na nástroj</translation>
     </message>
 </context>
 <context>
@@ -1816,7 +1818,7 @@ Providing a new name will create a new document.</source>
     <name>UBImportDocumentSetAdaptor</name>
     <message>
         <source>Openboard (set of documents) (*.ubx)</source>
-        <translation type="unfinished"></translation>
+        <translation>Openboard (komplet dokumentov) (*.ubx)</translation>
     </message>
 </context>
 <context>
@@ -1830,7 +1832,7 @@ Providing a new name will create a new document.</source>
     <name>UBImportPDF</name>
     <message>
         <source>PDF import failed.</source>
-        <translation>Nahrávanie do PDF zlyhalo.</translation>
+        <translation>Nepodarilo sa nahrať PDF.</translation>
     </message>
     <message>
         <source>Importing page %1 of %2</source>
@@ -1962,11 +1964,11 @@ Chcete ignorovať tieto chyby na tomto serveri?</translation>
     </message>
     <message>
         <source>has lost access to the document repository &apos;%1&apos;. Unfortunately the application must shut down to avoid data corruption. Latest changes may be lost as well.</source>
-        <translation type="vanished">stratil prístup k úložisku dokumentov &apos;%1&apos;. Aplikácia sa musí zatvoriť, aby sa predišlo poškodeniu dát. Možno nebudú uložené ani najnovšie zmeny.</translation>
+        <translation>stratil prístup k úložisku dokumentov &apos;%1&apos;. Aplikácia sa musí zatvoriť, aby sa predišlo poškodeniu dát. Možno nebudú uložené ani najnovšie zmeny.</translation>
     </message>
     <message>
         <source>OpenBoard has lost access to the document repository &apos;%1&apos;. Unfortunately the application must shut down to avoid data corruption. Latest changes may be lost as well.</source>
-        <translation type="unfinished"></translation>
+        <translation>OpenBoard stratil prístup k úložisku s dokumentmi &apos;%1&apos;. Program sa musí, žiaľ, zatvoriť, aby sa predišlo poškodeniu dát. Možno nebudú uložené ani najnovšie zmeny.</translation>
     </message>
 </context>
 <context>
@@ -2072,34 +2074,34 @@ Chcete ignorovať tieto chyby na tomto serveri?</translation>
     <name>UBProxyLoginDlg</name>
     <message>
         <source>Password:</source>
-        <translation type="vanished">Heslo:</translation>
+        <translation>Heslo:</translation>
     </message>
     <message>
         <source>Proxy Login</source>
-        <translation type="vanished">Prihlásenie na proxy</translation>
+        <translation>Prihlásenie na proxy</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation type="vanished">Používateľské meno:</translation>
+        <translation>Používateľské meno:</translation>
     </message>
 </context>
 <context>
     <name>UBPublicationDlg</name>
     <message>
         <source>Description:</source>
-        <translation type="vanished">Popis:</translation>
+        <translation>Popis:</translation>
     </message>
     <message>
         <source>Title:</source>
-        <translation type="vanished">Názov:</translation>
+        <translation>Názov:</translation>
     </message>
     <message>
         <source>Publish</source>
-        <translation type="vanished">Publikovať</translation>
+        <translation>Publikovať</translation>
     </message>
     <message>
         <source>Publish document on the web</source>
-        <translation type="vanished">Publikovať dokument na internet</translation>
+        <translation>Publikovať dokument na internet</translation>
     </message>
 </context>
 <context>
@@ -2138,7 +2140,7 @@ Chcete ignorovať tieto chyby na tomto serveri?</translation>
     <name>UBThumbnailTextItem</name>
     <message>
         <source>Page %0</source>
-        <translation type="unfinished">Stránka %0</translation>
+        <translation>Stránka %0</translation>
     </message>
 </context>
 <context>
@@ -2285,7 +2287,7 @@ Reštartujte aplikáciu, aby ste mohli pracovať s aktualizovanými dokumentmi.<
     </message>
     <message>
         <source>Gaming</source>
-        <translation>Hry</translation>
+        <translation>Hranie hier</translation>
     </message>
     <message>
         <source>Sports</source>
@@ -2618,11 +2620,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Show preview circle from</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zobrazovať kruh od</translation>
     </message>
     <message>
         <source>px</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">px</translation>
     </message>
 </context>
 <context>
@@ -2679,19 +2681,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Creation date</source>
-        <translation type="unfinished"></translation>
+        <translation>Dátum vytvorenia</translation>
     </message>
     <message>
         <source>Update date</source>
-        <translation type="unfinished"></translation>
+        <translation>Dátum aktualizácie</translation>
     </message>
     <message>
         <source>Alphabetical order</source>
-        <translation type="unfinished"></translation>
+        <translation>Podľa abecedy</translation>
     </message>
     <message>
         <source>Sort Order</source>
-        <translation type="unfinished"></translation>
+        <translation>Spôsob zoradenia</translation>
     </message>
 </context>
 <context>
@@ -2762,7 +2764,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Keyboard button size:</source>
-        <translation type="vanished">Veľkosť tlačidla klávesnice:</translation>
+        <translation>Veľkosť tlačidla klávesnice:</translation>
     </message>
     <message>
         <source>Stylus Palette</source>
@@ -2850,23 +2852,23 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>On Dark Background</source>
-        <translation type="unfinished">Na tmavom pozadí</translation>
+        <translation>Na tmavom pozadí</translation>
     </message>
     <message>
         <source>Opacity</source>
-        <translation type="unfinished">Priehľadnosť</translation>
+        <translation>Priehľadnosť</translation>
     </message>
     <message>
         <source>On Light Background</source>
-        <translation type="unfinished">Na svetlom pozadí</translation>
+        <translation>Na svetlom pozadí</translation>
     </message>
     <message>
         <source>Swap first and second view displays</source>
-        <translation type="unfinished"></translation>
+        <translation>Prehodiť obrazovky</translation>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Mriežka</translation>
     </message>
 </context>
 <context>
