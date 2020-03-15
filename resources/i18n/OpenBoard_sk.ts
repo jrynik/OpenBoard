@@ -2874,19 +2874,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Documents Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Režim Dokumenty</translation>
     </message>
     <message>
         <source>Display date column on alphabetical sort</source>
-        <translation type="unfinished"></translation>
+        <translation>Pri abecednom triedení zobratiť stĺpec s dátumom</translation>
     </message>
     <message>
         <source>Empty trash for documents older than</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumenty vyhodiť z koša po</translation>
     </message>
     <message>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>dňoch</translation>
     </message>
 </context>
 <context>
